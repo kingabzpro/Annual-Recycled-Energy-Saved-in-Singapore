@@ -4,6 +4,8 @@ Learn how much Singapore is saving energy per years by recycling plastics, paper
 
 ![img](https://cdn-images-1.medium.com/max/1200/1*pPftZq64VshXiRY-KqozyQ.jpeg)Image by Author | Elements by [Macrovector](https://www.freepik.com/macrovector), [Freepik](https://www.freepik.com/freepik)
 
+[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote-white.svg)](https://deepnote.com/viewer/github/kingabzpro/Annual-Recycled-Energy-Saved-in-Singapore/blob/main/notebook.ipynb)
+
 ### Introduction
 
 Singapore has an ambitious goal of becoming a zero-waste nation. The amount of waste disposed of in Singapore has increased seven-fold over the last 40 years. At this rate, Semakau Landfill, Singapore’s only landfill, will run out of space by 2035 [(towardszerowaste.gov.sg)](https://www.towardszerowaste.gov.sg/zero-waste-masterplan/#:~:text=The amount of waste disposed,plants or landfills in Singapore.). Making matters worse, Singapore has limited land for building new incineration plants or landfills. The government would like to motivate citizens by sharing the total energy that the combined recycling efforts have saved every year. They have asked you to help them.
