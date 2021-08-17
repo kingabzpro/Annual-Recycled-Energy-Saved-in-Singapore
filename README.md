@@ -1,2 +1,15 @@
-# Annual-Recycled-Energy-Saved-in-Singapore
-Learn how much Singapore is saving energy per years by recycling plastics, paper, glass, ferrous and non-ferrous metal
+# Annual Recycled Energy Saved in Singapore
+
+Learn how much Singapore is saving energy per years by recycling plastics, paper, glass, ferrous and non-ferrous metal.
+
+![img](https://cdn-images-1.medium.com/max/1200/1*pPftZq64VshXiRY-KqozyQ.jpeg)Image by Author | Elements by [Macrovector](https://www.freepik.com/macrovector), [Freepik](https://www.freepik.com/freepik)
+
+### Introduction
+
+Singapore has an ambitious goal of becoming a zero-waste nation. The amount of waste disposed of in Singapore has increased seven-fold over the last 40 years. At this rate, Semakau Landfill, Singapore’s only landfill, will run out of space by 2035 [(towardszerowaste.gov.sg)](https://www.towardszerowaste.gov.sg/zero-waste-masterplan/#:~:text=The amount of waste disposed,plants or landfills in Singapore.). Making matters worse, Singapore has limited land for building new incineration plants or landfills. The government would like to motivate citizens by sharing the total energy that the combined recycling efforts have saved every year. They have asked you to help them.
+
+![img](https://cdn-images-1.medium.com/max/800/1*Wqc7Wkhgqf9Ss7k2ne5rgA.jpeg)[RecyclePoster-CV (nea.gov.sg)](https://www.nea.gov.sg/docs/default-source/our-services/3r-poster.pdf)
+
+In this project we will clean our data and prepares for data analysis. We will be using [Singapore NEA Energy Savings | Kaggle](https://www.kaggle.com/eminbasturk/singapore-nea-energy-savings) data to analysis total garbage collected and recycling rate. The material names are different as these data was collected from different resources. We will be added latest data of 2020 [waste-statistics-and-overall-recycling](https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling) from the website, so that we can have latest statics analysis. We will be finding how much energy we can produced using [ Greentumble](https://greentumble.com/how-does-recycling-save-energy/) key information. 
+
+We will be using **Recycling statistics** to calculate energy saved every year from 2003 to 2020 based on five waste types, plastics, paper, glass, ferrous and non-ferrous metal.
